@@ -1,0 +1,22 @@
+[
+ {
+  "path": "/packages/iot/qsdk", 
+  "ver": "latest", 
+  "name": "QSDK"
+ }, 
+ {
+  "path": "/packages/iot/freemodbus", 
+  "ver": "latest", 
+  "name": "FREEMODBUS"
+ }, 
+ {
+  "path": "/packages/peripherals/button", 
+  "ver": "v1.0.1", 
+  "name": "BUTTON"
+ }, 
+ {
+  "path": "/packages/peripherals/at24cxx", 
+  "ver": "latest", 
+  "name": "AT24CXX"
+ }
+]
